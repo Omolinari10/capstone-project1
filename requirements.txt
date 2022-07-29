@@ -49,7 +49,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib @ file:///C:/ci/matplotlib-base_1597876438601/work
 missingno==0.4.2
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
@@ -177,7 +177,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib @ file:///C:/ci/matplotlib-base_1597876438601/work
 missingno==0.4.2
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
@@ -306,7 +306,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib @ file:///C:/ci/matplotlib-base_1597876438601/work
 missingno==0.4.2
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
