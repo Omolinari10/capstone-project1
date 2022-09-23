@@ -75,7 +75,7 @@ Pillow @ file:///C:/ci/pillow_1594298230227/work
 prettytable==0.7.2
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-protobuf==3.12.4
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
@@ -203,7 +203,7 @@ Pillow @ file:///C:/ci/pillow_1594298230227/work
 prettytable==0.7.2
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-protobuf==3.12.4
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
@@ -332,7 +332,7 @@ Pillow @ file:///C:/ci/pillow_1594298230227/work
 prettytable==0.7.2
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-protobuf==3.12.4
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
