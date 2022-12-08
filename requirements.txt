@@ -7,7 +7,7 @@ attrs==19.3.0
 backcall==0.2.0
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 cachetools==4.1.1
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 cftime==1.2.0
 chardet==3.0.4
@@ -135,7 +135,7 @@ attrs==19.3.0
 backcall==0.2.0
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 cachetools==4.1.1
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 cftime==1.2.0
 chardet==3.0.4
@@ -264,7 +264,7 @@ attrs==19.3.0
 backcall==0.2.0
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 cachetools==4.1.1
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 cftime==1.2.0
 chardet==3.0.4
